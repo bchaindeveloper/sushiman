@@ -1,6 +1,6 @@
-# My Porfolio Website
+# Sushiman
 
-This is a mock sushi resturant page made with HTML & CSS. 
+This is a mock sushi resturant page made with HTML & CSS. The website is confgured to use on either desktop or mobile devices.
 
 
 ## Motivation:
@@ -36,6 +36,6 @@ Feel free to a fork the repo or notify me of any issues that are present
 JavascriptMastery's tutorial helped me create this project:
 https://www.youtube.com/watch?v=QRrPE9aj3wI
 
-License:
+## License:
  
 MIT © BChainDev
